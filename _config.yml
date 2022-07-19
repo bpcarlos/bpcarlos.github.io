@@ -8,11 +8,11 @@ version: 2
 # Personal info
 name: Carlos Bravo-Prieto
 title: Postdoctoral Researcher
-email: charl_ap@hotmail.es
+email: charl_ap@hotmail.ess
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: facespics
