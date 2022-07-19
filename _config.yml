@@ -50,10 +50,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  I am a Posdoctoral Researcher in the Dahlem Center for Complex Quantum Systems at the Freie Universität Berlin. In particular, I am currently working in Jens Eisert's group. Under the supervision of José Ignacio Latorre, I got my PhD in quantum computation and information at the Universitat de Barcelona, where I initially studied a BSc in Physics. I also have an MSc in Photonics from the Institute of Photonics Sciences (ICFO). While doing my PhD, I had the opportunity to work as a researcher in different institutions. I spent my two first years of PhD as a Junior Researcher at the Barcelona Supercomputing Center. After, I spent two more years as an Associate Researcher at the Technology Innovation Institute in Abu Dhabi.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  I am highly interested in quantum technologies and, in particular, in quantum computing. My research is focused on quantum algorithms, quantum information, condensed matter physics, and machine learning. Without a doubt, what interests me the most is the intersection of the aforementioned topics.
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
