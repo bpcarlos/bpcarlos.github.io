@@ -8,7 +8,9 @@ version: 2
 # Personal info
 name: Carlos Bravo-Prieto
 title: Postdoctoral Researcher
-email: charl_ap@hotmail.ess
+link: https://sproogen.github.io/modern-resume-theme
+link_text: Text for link
+email: charl_ap@hotmail.es
 # website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
