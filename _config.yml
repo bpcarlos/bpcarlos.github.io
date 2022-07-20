@@ -71,15 +71,31 @@ content:
         sub_title: Postdoctoral Researcher
         caption: September 2022 - Present
         description: | # this will include new lines to allow paragraphs
-            Near-term quantum computing and quantum-assisted machine learning
+            Near-term quantum computing and quantum-assisted machine learning.
       - layout: left
-        title: Freie Universität Berlin
-        link: https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html
-        link_text: Dahlem Center for Complex Quantum Systems
-        sub_title: Postdoctoral Researcher
-        caption: September 2022 - Present
+        title: Technology Innovation Institute
+        link: https://www.tii.ae/quantum
+        link_text: Quantum Research Center
+        sub_title: Associate Researcher
+        caption: September 2020 - September 2022
         description: | # this will include new lines to allow paragraphs
-            Near-term quantum computing and quantum-assisted machine learning
+            Research and software development for quantum algorithms.
+      - layout: left
+        title: Los Alamos National Laboratory
+        link: https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php
+        link_text: Theoretical Division
+        sub_title: Postdoctoral Researcher
+        caption: June 2019 - August 2019
+        description: | # this will include new lines to allow paragraphs
+            Quantum algorithms for linear systems of equations.
+      - layout: left
+        title: Barcelona Supercomputing Center
+        link: https://www.bsc.es/discover-bsc/organisation/scientific-structure/general-case
+        link_text: CASE department
+        sub_title: Research Engineer
+        caption: September 2018 - September 2020
+        description: | # this will include new lines to allow paragraphs
+            Variational quantum algorithms.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
