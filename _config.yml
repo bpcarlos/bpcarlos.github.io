@@ -117,7 +117,7 @@ content:
   - title: Publications and Preprints
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Variational quantum eigensolver for SU(N) fermions</mark>, Mirko Consiglio, Wayne J. Chetcuti, Carlos Bravo-Prieto, Sergi Ramos-Calderer, Anna Minguzzi, José I. Latorre, Luigi Amico, and Tony J. G. Apollaro, *Journal of Physics A: Mathematical and Theoretical* **55**, 265301 (2022).
+      - <mark>Variational quantum eigensolver for SU(N) fermions</mark>, Mirko Consiglio, Wayne J. Chetcuti, Carlos Bravo-Prieto, Sergi Ramos-Calderer, Anna Minguzzi, José I. Latorre, Luigi Amico, and Tony J. G. Apollaro, *Journal of Physics A: Mathematical and Theoretical* **55**, 265301 (2022). [[Journal]](https://iopscience.iop.org/article/10.1088/1751-8121/ac7016) [[Preprint]](https://arxiv.org/abs/2106.15552)
       
       - Solving systems of boolean multivariate equations with quantum annealing, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Nawja Aaraj, and José I. Latorre, *Physical Review Research* **4**, 013096 (2022).
 
