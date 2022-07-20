@@ -118,16 +118,24 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       - Mirko Consiglio, Wayne J. Chetcuti, Carlos Bravo-Prieto, Sergi Ramos-Calderer, Anna Minguzzi, José I. Latorre, Luigi Amico, and Tony J. G. Apollaro, Variational quantum eigensolver for SU(N) fermions, Journal of Physics A: Mathematical and Theoretical 55, 265301 (2022).
+      
       - Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Nawja Aaraj, and José I. Latorre, Solving systems of boolean multivariate equations with quantum annealing, Physical Review Research 4, 013096 (2022).
-      - Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, Qibo: a framework for quantum simulation with hardware acceleration, Quantum Science and Technology 7, 015018 (2021).
-      - Carlos Bravo-Prieto, Julien Baglio, Marco Cé, Anthony Francis, Dorota M. Grabowska, and Stefano Carrazza, Style-based quantum generative adversarial networks for Monte Carlo events, arXiv:2110.06933 (2021).
-      - Carlos Bravo-Prieto, Quantum autoencoders with enhanced data encoding, Machine Learning: Science and Technology 2, 035028 (2021).
-      - Sergi Ramos-Calderer, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, Jorge Cortada, Jordi Planagumà, and José I. Latorre, Quantum unary approach to option pricing, Physical Review A 103, 032414 (2020).
-      - Carlos Bravo-Prieto, Josep Lumbreras-Zarapico, Luca Tagliacozzo, and José I. Latorre, Scaling of variational quantum circuit depth for condensed matter systems, Quantum 4, 272 (2020).
-      - Carlos Bravo-Prieto, Diego García-Martín, and José I. Latorre, Quantum singular value decomposer, Physical Review A 101, 062310 (2020).
-      - Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, Measuring the tangle of three-qubit states, Entropy, 22, 436 (2020).
-      - Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio and Patrick J. Coles, Variational quantum linear solver, arXiv:1909.05820 (2019).
 
+      - Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, Qibo: a framework for quantum simulation with hardware acceleration, Quantum Science and Technology 7, 015018 (2021).
+      
+      - Carlos Bravo-Prieto, Julien Baglio, Marco Cé, Anthony Francis, Dorota M. Grabowska, and Stefano Carrazza, Style-based quantum generative adversarial networks for Monte Carlo events, arXiv:2110.06933 (2021).
+      
+      - Carlos Bravo-Prieto, Quantum autoencoders with enhanced data encoding, Machine Learning: Science and Technology 2, 035028 (2021).
+      
+      - Sergi Ramos-Calderer, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, Jorge Cortada, Jordi Planagumà, and José I. Latorre, Quantum unary approach to option pricing, Physical Review A 103, 032414 (2020).
+      
+      - Carlos Bravo-Prieto, Josep Lumbreras-Zarapico, Luca Tagliacozzo, and José I. Latorre, Scaling of variational quantum circuit depth for condensed matter systems, Quantum 4, 272 (2020).
+      
+      - Carlos Bravo-Prieto, Diego García-Martín, and José I. Latorre, Quantum singular value decomposer, Physical Review A 101, 062310 (2020).
+      
+      - Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, Measuring the tangle of three-qubit states, Entropy, 22, 436 (2020).
+      
+      - Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio and Patrick J. Coles, Variational quantum linear solver, arXiv:1909.05820 (2019).
 
   - title: A Little More About Me
     layout: text
