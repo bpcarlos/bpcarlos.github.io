@@ -70,22 +70,19 @@ content:
         link_text: Dahlem Center for Complex Quantum Systems
         sub_title: Postdoctoral Researcher
         caption: September 2022 - Present
-      - layout: left
+
+      - layout: top-middle
         title: Technology Innovation Institute
         link: https://www.tii.ae/quantum
         link_text: Quantum Research Center
         sub_title: Associate Researcher
         caption: September 2020 - September 2022
-        description: | # this will include new lines to allow paragraphs
-            Research and software development for quantum algorithms.
-      - layout: left
+      - layout: top-middle
         title: Los Alamos National Laboratory
         link: https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php
         link_text: Theoretical Division
         sub_title: Postdoctoral Researcher
         caption: June 2019 - August 2019
-        description: | # this will include new lines to allow paragraphs
-            Quantum algorithms for linear systems of equations.
       - layout: left
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/discover-bsc/organisation/scientific-structure/general-case
