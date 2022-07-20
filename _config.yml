@@ -21,9 +21,9 @@ orcid_username: 0000-0003-1041-2044
 
 # Additional icon links
 additional_links:
-- title: CV
+- title: CV link
   icon: fas fa-pen-to-square
-  url: https://www.itsgoingto.be
+  url: https://bpcarlos.github.io/files/cv.pdf
 - title: Google Scholar link
   icon: fab fa-google
   url: https://scholar.google.com/citations?user=6zoV27oAAAAJ&hl=en
