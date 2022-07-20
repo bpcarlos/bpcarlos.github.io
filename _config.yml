@@ -21,11 +21,11 @@ github_username: bpcarlos
 # Additional icon links
 additional_links:
 - title: CV
-  icon: fa-regular fa-pen-to-square
+  icon: https://fontawesome.com/icons/pen-to-square?s=solid
   url: https://www.itsgoingto.be
 - title: Google Scholar
-  icon: fa-regular fa-pen-to-square
-  url: https://www.itsgoingto.be
+  icon: https://fontawesome.com/icons/google?s=brands
+  url: https://scholar.google.com/citations?user=6zoV27oAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
