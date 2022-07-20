@@ -25,7 +25,7 @@ additional_links:
   icon: https://fontawesome.com/icons/pen-to-square?s=solid
   url: https://www.itsgoingto.be
 - title: Google Scholar
-  icon: https://fontawesome.com/icons/google?s=brands
+  icon: fab fa-google
   url: https://scholar.google.com/citations?user=6zoV27oAAAAJ&hl=en
 
 # Google Analytics and Tag Manager
