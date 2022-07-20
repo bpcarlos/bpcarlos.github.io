@@ -110,6 +110,17 @@ content:
         link: 2019
         quote: >
           1/20 awarded internationally.
+      - layout: top-middle
+        title: Unitary Fund Grant
+        link: 2019
+        quote: >
+          $2k for open-source quantum software development.
+      - layout: top-middle
+        title: Top contributors of Teach me Qiskit Awards
+        sub_title: IBM
+        link: 2018
+        quote: >
+          Implementation of quantum networks for arithmetic operations, from addition to modular exponentiation.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
