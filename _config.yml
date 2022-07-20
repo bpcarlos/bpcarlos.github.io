@@ -117,13 +117,13 @@ content:
   - title: Publications and Preprints
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Mirko Consiglio, Wayne J. Chetcuti, Carlos Bravo-Prieto, Sergi Ramos-Calderer, Anna Minguzzi, José I. Latorre, Luigi Amico, and Tony J. G. Apollaro, Variational quantum eigensolver for SU(N) fermions, Journal of Physics A: Mathematical and Theoretical 55, 265301 (2022).
+      - <mark>Variational quantum eigensolver for SU(N) fermions</mark>, Mirko Consiglio, Wayne J. Chetcuti, Carlos Bravo-Prieto, Sergi Ramos-Calderer, Anna Minguzzi, José I. Latorre, Luigi Amico, and Tony J. G. Apollaro, *Journal of Physics A: Mathematical and Theoretical* **55**, 265301 (2022).
       
-      - Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Nawja Aaraj, and José I. Latorre, Solving systems of boolean multivariate equations with quantum annealing, Physical Review Research 4, 013096 (2022).
+      - Solving systems of boolean multivariate equations with quantum annealing, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Nawja Aaraj, and José I. Latorre, *Physical Review Research* **4**, 013096 (2022).
 
-      - Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, Qibo: a framework for quantum simulation with hardware acceleration, Quantum Science and Technology 7, 015018 (2021).
+      - **Qibo: a framework for quantum simulation with hardware acceleration**, Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, *Quantum Science and Technology* **7**, 015018 (2021).
       
-      - Carlos Bravo-Prieto, Julien Baglio, Marco Cé, Anthony Francis, Dorota M. Grabowska, and Stefano Carrazza, Style-based quantum generative adversarial networks for Monte Carlo events, arXiv:2110.06933 (2021).
+      - <mark>Style-based quantum generative adversarial networks for Monte Carlo events</mark>, C. Bravo-Prieto, J. Baglio, M. Cé, A. Francis, D. M. Grabowska, and S. Carrazza, *arXiv:2110.06933* (2021).
       
       - Carlos Bravo-Prieto, Quantum autoencoders with enhanced data encoding, Machine Learning: Science and Technology 2, 035028 (2021).
       
