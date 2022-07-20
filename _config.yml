@@ -121,21 +121,21 @@ content:
       
       - <mark>Solving systems of boolean multivariate equations with quantum annealing</mark>, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Ruge Lin, Emanuele Bellini, Marc Manzano, Nawja Aaraj, and José I. Latorre, *Physical Review Research* **4**, 013096 (2022). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
 
-      - <mark>Qibo: a framework for quantum simulation with hardware acceleration</mark>, Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, *Quantum Science and Technology* **7**, 015018 (2021). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Qibo: a framework for quantum simulation with hardware acceleration</mark>, Stavros Efthymiou, Sergi Ramos-Calderer, Carlos Bravo-Prieto, Adrián Pérez-Salinas, Diego García-Martín, Artur Garcia-Saez, José I. Latorre and Stefano Carrazza, *Quantum Science and Technology* **7**, 015018 (2021). [[Journal]](https://iopscience.iop.org/article/10.1088/2058-9565/ac39f5) [[Preprint]](https://arxiv.org/abs/2009.01845)
       
-      - <mark>Style-based quantum generative adversarial networks for Monte Carlo events</mark>, Carlos Bravo-Prieto, Julien Baglio, Marco Cé, A. Francis, Dorota M. Grabowska, and Stefano Carrazza, *arXiv:2110.06933* (2021). [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Style-based quantum generative adversarial networks for Monte Carlo events</mark>, Carlos Bravo-Prieto, Julien Baglio, Marco Cé, A. Francis, Dorota M. Grabowska, and Stefano Carrazza, *arXiv:2110.06933* (2021). [[Preprint]](https://arxiv.org/abs/2110.06933)
       
-      - <mark>Quantum autoencoders with enhanced data encoding</mark>, Carlos Bravo-Prieto, *Machine Learning: Science and Technology* **2**, 035028 (2021). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Quantum autoencoders with enhanced data encoding</mark>, Carlos Bravo-Prieto, *Machine Learning: Science and Technology* **2**, 035028 (2021). [[Journal]](https://iopscience.iop.org/article/10.1088/2632-2153/ac0616) [[Preprint]](https://arxiv.org/abs/2010.06599)
       
-      - <mark>Quantum unary approach to option pricing</mark>, Sergi Ramos-Calderer, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, Jorge Cortada, Jordi Planagumà, and José I. Latorre, *Physical Review A* **103**, 032414 (2020). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Quantum unary approach to option pricing</mark>, Sergi Ramos-Calderer, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, Jorge Cortada, Jordi Planagumà, and José I. Latorre, *Physical Review A* **103**, 032414 (2020). [[Journal]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.103.032414) [[Preprint]](https://arxiv.org/abs/1912.01618)
       
-      - <mark>Scaling of variational quantum circuit depth for condensed matter systems</mark>, Carlos Bravo-Prieto, Josep Lumbreras-Zarapico, Luca Tagliacozzo, and José I. Latorre, *Quantum* **4**, 272 (2020). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Scaling of variational quantum circuit depth for condensed matter systems</mark>, Carlos Bravo-Prieto, Josep Lumbreras-Zarapico, Luca Tagliacozzo, and José I. Latorre, *Quantum* **4**, 272 (2020). [[Journal]](https://quantum-journal.org/papers/q-2020-05-28-272/) [[Preprint]](https://arxiv.org/abs/2002.06210)
       
-      - <mark>Quantum singular value decomposer</mark>, Carlos Bravo-Prieto, Diego García-Martín, and José I. Latorre, *Physical Review A* **101**, 062310 (2020). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Quantum singular value decomposer</mark>, Carlos Bravo-Prieto, Diego García-Martín, and José I. Latorre, *Physical Review A* **101**, 062310 (2020). [[Journal]](https://journals.aps.org/pra/abstract/10.1103/PhysRevA.101.062310) [[Preprint]](https://arxiv.org/abs/1905.01353)
       
-      - <mark>Measuring the tangle of three-qubit states</mark>, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, *Entropy* **22**, 436 (2020). [[Journal]](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.013096) [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Measuring the tangle of three-qubit states</mark>, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, *Entropy* **22**, 436 (2020). [[Journal]](https://www.mdpi.com/1099-4300/22/4/436) [[Preprint]](https://arxiv.org/abs/2003.06895)
       
-      - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio and Patrick J. Coles, *arXiv:1909.05820* (2019). [[Preprint]](https://arxiv.org/abs/2111.13224)
+      - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio and Patrick J. Coles, *arXiv:1909.05820* (2019). [[Preprint]](https://arxiv.org/abs/1909.05820)
 
   - title: A Little More About Me
     layout: text
