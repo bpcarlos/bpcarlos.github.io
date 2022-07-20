@@ -70,7 +70,6 @@ content:
         link_text: Dahlem Center for Complex Quantum Systems
         sub_title: Postdoctoral Researcher
         caption: September 2022 - Present
-
       - layout: top-middle
         title: Technology Innovation Institute
         link: https://www.tii.ae/quantum
@@ -81,16 +80,14 @@ content:
         title: Los Alamos National Laboratory
         link: https://www.lanl.gov/org/ddste/aldsc/theoretical/index.php
         link_text: Theoretical Division
-        sub_title: Postdoctoral Researcher
+        sub_title: Student Fellowship
         caption: June 2019 - August 2019
-      - layout: left
+      - layout: top-middle
         title: Barcelona Supercomputing Center
         link: https://www.bsc.es/discover-bsc/organisation/scientific-structure/general-case
         link_text: CASE department
         sub_title: Research Engineer
         caption: September 2018 - September 2020
-        description: | # this will include new lines to allow paragraphs
-            Variational quantum algorithms.
 
   - title: Awards and Honors # Title for the section
     layout: list # Type of content section (list/text)
