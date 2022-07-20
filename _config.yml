@@ -15,18 +15,19 @@ email: x@fu-berlin.de
 darkmode: true
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-orcid_username: 0000-0003-1041-2044
+twitter_username: charl_bp
 
 # Additional icon links
 additional_links:
 - title: CV
-  icon: pen-to-square
+  icon: fa-regular fa-pen-to-square
   url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
+
+github_username: bpcarlos
+orcid_username: 0000-0003-1041-2044
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
