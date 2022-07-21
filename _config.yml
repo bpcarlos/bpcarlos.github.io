@@ -64,16 +64,12 @@ content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: middle
+      - layout: top-left
         title: Freie Universität Berlin
         link: https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html
         link_text: Dahlem Center for Complex Quantum Systems
         sub_title: Postdoctoral Researcher
         caption: September 2022 - Present
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
       - layout: top-right
         title: Technology Innovation Institute
         link: https://www.tii.ae/quantum
