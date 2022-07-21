@@ -99,7 +99,7 @@ content:
       - layout: top-middle
         title: PhD Excellent Cum Laude
         sub_title: Universitat de Barcelona
-        link: 2022
+        link_text: 2022
       - layout: top-middle
         title: Quantum Computing Summer Fellowship
         sub_title: Los Alamos National Laboratory
