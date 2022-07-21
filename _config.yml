@@ -78,31 +78,6 @@ content:
         sub_title: Research Engineer
         caption: September 2018 - September 2020
 
-  - title: Awards and Honors # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: PhD Excellent Cum Laude
-        sub_title: Universitat de Barcelona
-        link: 2022
-      - layout: top-middle
-        title: Quantum Computing Summer Fellowship
-        sub_title: Los Alamos National Laboratory
-        link: 2019
-        quote: >
-          1/20 awarded internationally
-      - layout: top-middle
-        title: Unitary Fund Grant
-        link: 2019
-        quote: >
-          $2k for open-source quantum software development
-      - layout: top-middle
-        title: Top contributors of Teach me Qiskit Awards
-        sub_title: IBM
-        link: 2018
-        quote: >
-          Implementation of quantum networks for arithmetic operations, from addition to modular exponentiation
-
   - title: Publications and Preprints
     layout: text
     content: | # this will include new lines to allow paragraphs
