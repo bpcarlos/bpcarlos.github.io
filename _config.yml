@@ -7,8 +7,8 @@ version: 2
 
 # Personal info
 name: Carlos Bravo-Prieto
-title: Postdoctoral Researcher
-sub_title: something
+title: Postdoctoral Researcher\
+two
 email: x@fu-berlin.de
 # website: www.github.com/sproogen/resume-theme
 
