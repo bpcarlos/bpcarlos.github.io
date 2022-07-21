@@ -42,18 +42,18 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am highly interested in quantum technologies and, specifically, quantum computing. My research is focused on quantum algorithms, quantum information, condensed matter physics, and machine learning. Without a doubt, what interests me the most is the intersection of the aforementioned topics.
 
-  
+  haha <span style="font-size:larger;">word</span>
 content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-left
+      - layout: top-middle
         title: Freie Universität Berlin
         link: https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html
         link_text: Dahlem Center for Complex Quantum Systems
         sub_title: Postdoctoral Researcher
         caption: September 2022 - Present
-      - layout: top-right
+      - layout: top-middle
         title: Technology Innovation Institute
         link: https://www.tii.ae/quantum
         link_text: Quantum Research Center
