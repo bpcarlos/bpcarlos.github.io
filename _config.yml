@@ -42,12 +42,12 @@ about_content: | # this will include new lines to allow paragraphs
 
   I am highly interested in quantum technologies and, specifically, quantum computing. My research is focused on quantum algorithms, quantum information, condensed matter physics, and machine learning. Without a doubt, what interests me the most is the intersection of the aforementioned topics.
 
-  <span style="font-size:larger;">**word**</span>
-  - PhD in Physics, 2022
-    Universitat de Barcelona
+  <span style="font-size:larger;">**Education**</span>
+  - PhD in Physics, Universitat de Barcelona (2022)
 
-  - More
-  - Else
+  - MSc in Photonics, Institute of Photonic Sciences ICFO (2017)
+
+  - Bsc in Physics, Universitat de Barcelona (2016)
 content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
@@ -124,18 +124,6 @@ content:
       - <mark>Measuring the tangle of three-qubit states</mark>, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, *Entropy* **22**, 436 (2020). [[Journal]](https://www.mdpi.com/1099-4300/22/4/436) [[Preprint]](https://arxiv.org/abs/2003.06895)
       
       - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio and Patrick J. Coles, *arXiv:1909.05820* (2019). [[Preprint]](https://arxiv.org/abs/1909.05820)
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: false
