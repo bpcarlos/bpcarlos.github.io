@@ -64,7 +64,7 @@ content:
   - title: Research Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
+      - layout: middle
         title: Freie Universität Berlin
         link: https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html
         link_text: Dahlem Center for Complex Quantum Systems
@@ -74,7 +74,7 @@ content:
           - title:  sproogen/modern-resume-theme
             icon: fab fa-github
             url: github.com/sproogen/modern-resume-theme
-      - layout: top-middle
+      - layout: top-right
         title: Technology Innovation Institute
         link: https://www.tii.ae/quantum
         link_text: Quantum Research Center
@@ -99,7 +99,7 @@ content:
       - layout: top-middle
         title: PhD Excellent Cum Laude
         sub_title: Universitat de Barcelona
-        link_text: 2022
+        link: 2022
       - layout: top-middle
         title: Quantum Computing Summer Fellowship
         sub_title: Los Alamos National Laboratory
