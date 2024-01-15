@@ -81,7 +81,9 @@ content:
   - title: Publications and Preprints
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Understanding quantum machine learning also requires rethinking generalization</mark>, Elies Gil-Fuster, Jens Eisert, and Carlos Bravo-Prieto, *arXiv:2306.13461* (2023). [[Preprint]](https://arxiv.org/abs/2306.13461)
+      - <mark>Understanding quantum machine learning also requires rethinking generalization</mark>, Elies Gil-Fuster, Jens Eisert, and Carlos Bravo-Prieto, *in press Nature Communications* (2024). [[Preprint]](https://arxiv.org/abs/2306.13461)
+
+      - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio, and Patrick J. Coles, *Quantum* **7**, 1188 (2023). [[Journal]](https://quantum-journal.org/papers/q-2023-11-22-1188/) [[Preprint]](https://arxiv.org/abs/1909.05820)
     
       - <mark>Style-based quantum generative adversarial networks for Monte Carlo events</mark>, Carlos Bravo-Prieto, Julien Baglio, Marco Cé, A. Francis, Dorota M. Grabowska, and Stefano Carrazza, *Quantum* **6**, 777 (2022). [[Journal]](https://quantum-journal.org/papers/q-2022-08-17-777/) [[Preprint]](https://arxiv.org/abs/2110.06933)
       
@@ -101,8 +103,6 @@ content:
       
       - <mark>Measuring the tangle of three-qubit states</mark>, Adrián Pérez-Salinas, Diego García-Martín, Carlos Bravo-Prieto, and José I. Latorre, *Entropy* **22**, 436 (2020). [[Journal]](https://www.mdpi.com/1099-4300/22/4/436) [[Preprint]](https://arxiv.org/abs/2003.06895)
       
-      - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio, and Patrick J. Coles, *arXiv:1909.05820* (2019). [[Preprint]](https://arxiv.org/abs/1909.05820)
-
 # Footer
 footer_show_references: false
 # references_title: References on request (Override references text)
