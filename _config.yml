@@ -81,7 +81,7 @@ content:
   - title: Publications and Preprints
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - <mark>Understanding quantum machine learning also requires rethinking generalization</mark>, Elies Gil-Fuster, Jens Eisert, and Carlos Bravo-Prieto, *in press Nature Communications* (2024). [[Preprint]](https://arxiv.org/abs/2306.13461)
+      - <mark>Understanding quantum machine learning also requires rethinking generalization</mark>, Elies Gil-Fuster, Jens Eisert, and Carlos Bravo-Prieto, *Nature Communications* **15**, 2277 (2024). [[Journal]](https://www.nature.com/articles/s41467-024-45882-z) [[Preprint]](https://arxiv.org/abs/2306.13461)
 
       - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio, and Patrick J. Coles, *Quantum* **7**, 1188 (2023). [[Journal]](https://quantum-journal.org/papers/q-2023-11-22-1188/) [[Preprint]](https://arxiv.org/abs/1909.05820)
     
