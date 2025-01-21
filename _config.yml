@@ -80,7 +80,11 @@ content:
 
   - title: Publications and Preprints
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: | # this will include new lines to allow paragraphs    
+      - <mark>Double descent in quantum machine learning</mark>, Marie Kempkes, Aroosa Ijaz, Elies Gil-Fuster, Carlos Bravo-Prieto, Jakob Spiegelberg, Evert van Nieuwenburg, and Vedran Dunjko, *arXiv:2501.10077* (2024). [[Preprint]](https://arxiv.org/abs/2501.10077)
+
+      - <mark>Learning complexity gradually in quantum machine learning models</mark>, Erik Recio-Armengol, Franz J. Schreiber, Jens Eisert, and Carlos Bravo-Prieto, *arXiv:2411.11954* (2024). [[Preprint]](https://arxiv.org/abs/2411.11954)
+
       - <mark>Understanding quantum machine learning also requires rethinking generalization</mark>, Elies Gil-Fuster, Jens Eisert, and Carlos Bravo-Prieto, *Nature Communications* **15**, 2277 (2024). [[Journal]](https://www.nature.com/articles/s41467-024-45882-z) [[Preprint]](https://arxiv.org/abs/2306.13461)
 
       - <mark>Variational quantum linear solver</mark>, Carlos Bravo-Prieto, Ryan LaRose, Marco Cerezo, Yigit Subaşı, Lukasz Cincio, and Patrick J. Coles, *Quantum* **7**, 1188 (2023). [[Journal]](https://quantum-journal.org/papers/q-2023-11-22-1188/) [[Preprint]](https://arxiv.org/abs/1909.05820)
