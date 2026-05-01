@@ -406,8 +406,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-our-work-a-pac-bayesian-approach-to-generalization-for-quantum-models-is-now-on-arxiv-page-facing-up",
+          title: 'Our work A PAC-Bayesian approach to generalization for quantum models is now on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
