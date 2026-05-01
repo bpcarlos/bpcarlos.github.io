@@ -1,13 +1,10 @@
 ---
-layout: page
+layout: cv_pdf_only
 permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
+cv_pdf: /assets/pdf/cv.pdf
 ---
 
 You can download my CV by clicking on the PDF download button.
-
-<a href="{{ '/assets/pdf/cv.pdf' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank">
-  Download PDF
-</a>
