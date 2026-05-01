@@ -407,7 +407,7 @@ ninja.data = [{
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-our-work-a-pac-bayesian-approach-to-generalization-for-quantum-models-is-now-on-arxiv-page-facing-up",
-          title: 'Our work A PAC-Bayesian approach to generalization for quantum models is now on...',
+          title: 'Our work “A PAC-Bayesian approach to generalization for quantum models” is now on...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
