@@ -398,13 +398,11 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-pablo-gave-a-talk-on-our-work-a-pac-bayesian-approach-to-generalization-for-quantum-models-at-qtml25-check-it-out",
           title: 'Pablo gave a talk on our work “A PAC-Bayesian approach to generalization for...',
+          description: "",
+          section: "News",},{id: "news-our-work-double-descent-in-quantum-kernel-methods-has-been-published-in-prx-quantum-rocket",
+          title: 'Our work “Double descent in quantum kernel methods” has been published in PRX...',
           description: "",
           section: "News",},{id: "news-our-work-a-pac-bayesian-approach-to-generalization-for-quantum-models-is-now-on-arxiv-page-facing-up",
           title: 'Our work “A PAC-Bayesian approach to generalization for quantum models” is now on...',
