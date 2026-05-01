@@ -398,8 +398,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-pablo-gave-a-talk-on-our-work-a-pac-bayesian-approach-to-generalization-for-quantum-models-at-qtml25-check-it-out",
+          title: 'Pablo gave a talk on our work “A PAC-Bayesian approach to generalization for...',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
