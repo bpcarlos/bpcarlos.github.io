@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-19'
+  last_updated: '2026-06-29'
 papers:
   6zoV27oAAAAJ:4DMP91E08xMC:
     citations: 19
@@ -30,7 +30,7 @@ papers:
     title: Measuring the tangle of three-qubit states
     year: '2020'
   6zoV27oAAAAJ:M05iB0D1s5AC:
-    citations: 14
+    citations: 15
     title: Double descent in quantum kernel methods
     year: '2026'
   6zoV27oAAAAJ:RHpTSmoSYBkC:
@@ -38,11 +38,11 @@ papers:
     title: Variational quantum architectures. Applications for noisy intermediate-scale quantum computers
     year: '2022'
   6zoV27oAAAAJ:TQgYirikUcIC:
-    citations: 132
+    citations: 136
     title: Understanding quantum machine learning also requires rethinking generalization
     year: '2024'
   6zoV27oAAAAJ:UeHWp8X0CEIC:
-    citations: 118
+    citations: 120
     title: Scaling of variational quantum circuit depth for condensed matter systems
     year: '2020'
   6zoV27oAAAAJ:eQOLeE2rZwMC:
@@ -50,7 +50,7 @@ papers:
     title: Variational quantum eigensolver for SU(N) fermions
     year: '2022'
   6zoV27oAAAAJ:iH-uZ7U-co4C:
-    citations: 622
+    citations: 628
     title: Variational quantum linear solver
     year: '2023'
   6zoV27oAAAAJ:ldfaerwXgEUC:
@@ -58,7 +58,7 @@ papers:
     title: Prospects for quantum advantage in machine learning from the representability of functions
     year: '2025'
   6zoV27oAAAAJ:mVmsd5A6BfQC:
-    citations: 228
+    citations: 229
     title: 'Qibo: a framework for quantum simulation with hardware acceleration'
     year: '2021'
   6zoV27oAAAAJ:qUcmZB5y_30C:
