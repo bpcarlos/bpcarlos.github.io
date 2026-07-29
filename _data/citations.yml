@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-29'
 papers:
   6zoV27oAAAAJ:4DMP91E08xMC:
     citations: 19
     title: Solving systems of Boolean multivariate equations with quantum annealing
     year: '2022'
   6zoV27oAAAAJ:4OULZ7Gr8RgC:
-    citations: 0
+    citations: 1
     title: A PAC-Bayesian approach to generalization for quantum models
     year: '2026'
   6zoV27oAAAAJ:5nxA0vEk-isC:
-    citations: 97
+    citations: 98
     title: Quantum autoencoders with enhanced data encoding
     year: '2021'
   6zoV27oAAAAJ:9ZlFYXVOiuMC:
@@ -20,9 +20,9 @@ papers:
   6zoV27oAAAAJ:9yKSN-GCB0IC:
     citations: 95
     title: Quantum singular value decomposer
-    year: '2020'
+    year: '2019'
   6zoV27oAAAAJ:GnPB-g6toBAC:
-    citations: 4
+    citations: 3
     title: Learning complexity gradually in quantum machine learning models
     year: '2024'
   6zoV27oAAAAJ:IjCSPb-OGe4C:
@@ -30,7 +30,7 @@ papers:
     title: Measuring the tangle of three-qubit states
     year: '2020'
   6zoV27oAAAAJ:M05iB0D1s5AC:
-    citations: 17
+    citations: 19
     title: Double descent in quantum kernel methods
     year: '2026'
   6zoV27oAAAAJ:RHpTSmoSYBkC:
@@ -38,23 +38,31 @@ papers:
     title: Variational quantum architectures. Applications for noisy intermediate-scale quantum computers
     year: '2022'
   6zoV27oAAAAJ:TQgYirikUcIC:
-    citations: 139
+    citations: 144
     title: Understanding quantum machine learning also requires rethinking generalization
-    year: '2024'
+    year: '2023'
   6zoV27oAAAAJ:UeHWp8X0CEIC:
     citations: 120
     title: Scaling of variational quantum circuit depth for condensed matter systems
     year: '2020'
+  6zoV27oAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: Cautious optimism for deep parameterized quantum circuits
+    year: '2026'
+  6zoV27oAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: Quantum memory advantage for quantum process tomography
+    year: '2026'
   6zoV27oAAAAJ:eQOLeE2rZwMC:
     citations: 25
     title: Variational quantum eigensolver for SU(N) fermions
     year: '2022'
   6zoV27oAAAAJ:iH-uZ7U-co4C:
-    citations: 636
+    citations: 650
     title: Variational quantum linear solver
     year: '2023'
   6zoV27oAAAAJ:ldfaerwXgEUC:
-    citations: 1
+    citations: 2
     title: Prospects for quantum advantage in machine learning from the representability of functions
     year: '2025'
   6zoV27oAAAAJ:mVmsd5A6BfQC:
@@ -66,6 +74,6 @@ papers:
     title: Style-based quantum generative adversarial networks for Monte Carlo events
     year: '2022'
   6zoV27oAAAAJ:qjMakFHDy7sC:
-    citations: 80
+    citations: 81
     title: Quantum unary approach to option pricing
     year: '2021'
