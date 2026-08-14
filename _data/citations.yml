@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-08-14'
 papers:
   6zoV27oAAAAJ:4DMP91E08xMC:
     citations: 19
@@ -58,7 +58,7 @@ papers:
     title: Variational quantum eigensolver for SU(N) fermions
     year: '2022'
   6zoV27oAAAAJ:iH-uZ7U-co4C:
-    citations: 650
+    citations: 653
     title: Variational quantum linear solver
     year: '2023'
   6zoV27oAAAAJ:ldfaerwXgEUC:
