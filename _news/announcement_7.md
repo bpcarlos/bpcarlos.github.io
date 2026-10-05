@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our work "[Cautious optimism for deep parameterized quantum circuits]([https://arxiv.org/abs/2607.21409](https://arxiv.org/abs/2607.21409))" is now on arXiv!  :page_facing_up:
+Our work "[Cautious optimism for deep parameterized quantum circuits](https://arxiv.org/abs/2607.21409)" is now on arXiv!  :page_facing_up:
 
