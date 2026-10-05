@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "[An Optimal Quantum Linear Systems Algorithm]([https://arxiv.org/abs/2609.35660](https://arxiv.org/abs/2609.35660))" is now on arXiv!  :page_facing_up:
+Our work "[An Optimal Quantum Linear Systems Algorithm](https://arxiv.org/abs/2609.35660)" is now on arXiv!  :page_facing_up:
