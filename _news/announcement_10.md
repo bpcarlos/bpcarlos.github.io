@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our work "[Testing quantum Gaussianity with constant sample complexity]([https://arxiv.org/abs/2609.40270](https://arxiv.org/abs/2609.40270))" is now on arXiv!  :page_facing_up:
+Our work "[Testing quantum Gaussianity with constant sample complexity](https://arxiv.org/abs/2609.40270)" is now on arXiv!  :page_facing_up:
