@@ -5,5 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Our work "[Quantum memory advantage for quantum process tomography]([https://arxiv.org/abs/2603.22964](https://arxiv.org/abs/2603.22964))" is now on arXiv!  :page_facing_up:
+Our work "[Quantum memory advantage for quantum process tomography](https://arxiv.org/abs/2607.13476)" is now on arXiv!  :page_facing_up:
 
